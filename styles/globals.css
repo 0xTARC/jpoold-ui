@@ -1,0 +1,12 @@
+/* TODO: remove this in favor of global vanilla extract sumn sumn */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden; /* hide scrollbars */
+  overflow-y: scroll; /* hide scrollbars */
+}
+
+* {
+  box-sizing: border-box;
+}
